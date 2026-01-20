@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am Vigyant Nayak, a Computer Science Engineering student specializing in AI & Machine Learning at M.S. Ramaiah Institute of Technology. With a keen interest in Generative AI, Agentic AI, and Full Stack Development, I bridge the gap between complex data models and interactive user experiences. I have professional experience as a Data Scientist Intern, where I developed AI-driven features for travel planning and document analysis.
 
 
