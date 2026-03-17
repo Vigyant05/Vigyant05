@@ -1,16 +1,24 @@
 # Hi, I'm Vigyant Nayak 👋
 
-Computer Science Engineering student specialising in AI & Machine Learning at M.S. Ramaiah Institute of Technology. Interested in Generative AI, Agentic AI, and Full Stack Development — I bridge the gap between complex data models and interactive user experiences.
+Computer Science Engineering student specialising in AI & Machine Learning at M.S. Ramaiah Institute of Technology, Bengaluru — with a genuine curiosity for how intelligent systems are built and where they're headed.
 
-Data Scientist Intern @ Innodatatics — built AI-driven features for travel planning and document analysis.
+I enjoy working on projects that go beyond coursework — the kind that actually ship, break, and teach you something real in the process. Over the past year I've worked on everything from fine-tuning transformer models to building full-stack AI applications, and that breadth is something I actively look for. I like understanding how all the pieces fit together, not just the individual parts.
 
-## 🌐 Socials
+Currently exploring **Generative AI**, **Agentic AI**, and **Full Stack Development** — bridging the gap between complex data models and interactive user experiences.
+
+**Data Scientist Intern @ Innodatatics** — built AI-driven features for travel planning and document analysis, covering model fine-tuning, data preparation, and end-to-end inference pipelines.
+
+Outside the screen, I'm a sports fanatic through and through. Football match nights and Formula 1 race weekends are non-negotiable, and cricket has always had a special place. Sport teaches you more about focus, patience, and bouncing back than most things do — and I think that carries over.
+
+Always open to connecting with people working on interesting problems in AI. Feel free to reach out! 
+
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigyant-nayak-a32479302/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigyantnayak@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -48,7 +56,7 @@ Data Scientist Intern @ Innodatatics — built AI-driven features for travel pla
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vigyant05&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
