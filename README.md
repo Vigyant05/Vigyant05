@@ -20,13 +20,13 @@ Outside the screen, I'm a sports fanatic through and through. Football match nig
 
 Always open to connecting with people working on interesting problems in AI. Feel free to reach out!
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigyant-nayak-a32479302/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigyantnayak@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -64,7 +64,7 @@ Always open to connecting with people working on interesting problems in AI. Fee
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vigyant05&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
