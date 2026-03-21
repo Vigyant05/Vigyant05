@@ -1,4 +1,12 @@
-# Hi, I'm Vigyant Nayak 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=48&duration=3000&pause=2000&color=4A90D9&center=true&vCenter=true&width=700&height=80&lines=Vigyant+Nayak" alt="Vigyant Nayak" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=99999&color=9A9690&center=true&vCenter=true&width=500&height=30&lines=Computer+Science+%26+Engineering+%5BAIML%5D" alt="CS Engineering AIML" />
+</p>
+
+---
 
 Computer Science Engineering student specialising in AI & Machine Learning at M.S. Ramaiah Institute of Technology, Bengaluru — with a genuine curiosity for how intelligent systems are built and where they're headed.
 
@@ -10,15 +18,15 @@ Currently exploring **Generative AI**, **Agentic AI**, and **Full Stack Developm
 
 Outside the screen, I'm a sports fanatic through and through. Football match nights and Formula 1 race weekends are non-negotiable, and cricket has always had a special place. Sport teaches you more about focus, patience, and bouncing back than most things do — and I think that carries over.
 
-Always open to connecting with people working on interesting problems in AI. Feel free to reach out! 
+Always open to connecting with people working on interesting problems in AI. Feel free to reach out!
 
-## Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigyant-nayak-a32479302/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigyantnayak@gmail.com)
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 **Languages**
 
@@ -56,7 +64,7 @@ Always open to connecting with people working on interesting problems in AI. Fee
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vigyant05&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
@@ -68,5 +76,11 @@ Always open to connecting with people working on interesting problems in AI. Fee
 </p>
 
 ---
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
+</p>
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Vigyant05&icon=0&color=0)](https://visitcount.itsvg.in)
