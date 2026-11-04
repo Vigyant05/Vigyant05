@@ -89,6 +89,3 @@ I am open to internship opportunities in AI/ML, software engineering and technic
   <i>"The best way to predict the future is to invent it."</i><br/>Alan Kay
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Vigyant05&icon=0&color=0" alt="Profile views" />
-</p>
