@@ -81,7 +81,7 @@ Away from the keyboard, I'm a sports fanatic through and through. Football night
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/tech-sphere-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/tech-sphere-light.svg" />
-    <img src="./profile/tech-sphere-dark.svg" alt="Tech stack: Python, C++, C, JavaScript, TypeScript, SQL, PyTorch, Scikit-learn, XGBoost, CatBoost, Pandas, NumPy, Matplotlib, Jupyter, Hugging Face, LangChain, LangGraph, ChromaDB, Ollama, Gemini, Groq, Pydantic, n8n, React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, Three.js, Vite, Selenium, BeautifulSoup, Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" width="100%" />
+    <img src="./profile/tech-sphere-dark.svg" alt="Tech stack: Python, C++, C, JavaScript, TypeScript, SQL, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Jupyter, Hugging Face, LangChain, LangGraph, ChromaDB, Ollama, Gemini, Groq, Pydantic, n8n, React, Next.js, Node.js, Express, FastAPI, Vite, Selenium, BeautifulSoup, Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" width="100%" />
   </picture>
 </p>
 
