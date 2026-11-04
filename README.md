@@ -54,30 +54,9 @@ I am open to internship opportunities in AI/ML, software engineering and technic
 
 ## Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql" alt="Python, C++, C, JavaScript, TypeScript, SQL" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, Scikit-learn" />
-<br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6446" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/XGBoost-337AB7" alt="XGBoost" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-
-**Web & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,fastapi,tailwind" alt="React, Next.js, Express, Node.js, FastAPI, Tailwind CSS" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,gcp,supabase,mongodb" alt="Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" />
+<p align="center">
+  <img src="./profile/tech-stack.svg" alt="Tech stack: Python, C++, C, JavaScript, TypeScript, SQL, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, Hugging Face, LangChain, LangGraph, ChromaDB, Ollama, React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" width="100%" />
+</p>
 
 ---
 
