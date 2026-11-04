@@ -55,7 +55,11 @@ I am open to internship opportunities in AI/ML, software engineering and technic
 ## Tech Stack
 
 <p align="center">
-  <img src="./profile/tech-stack.svg" alt="Tech stack: Python, C++, C, JavaScript, TypeScript, SQL, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, Hugging Face, LangChain, LangGraph, ChromaDB, Ollama, React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/tech-sphere-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/tech-sphere-light.svg" />
+    <img src="./profile/tech-sphere-dark.svg" alt="Tech stack: Python, C++, C, JavaScript, TypeScript, SQL, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, Hugging Face, LangChain, LangGraph, ChromaDB, Ollama, React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" width="100%" />
+  </picture>
 </p>
 
 ---
