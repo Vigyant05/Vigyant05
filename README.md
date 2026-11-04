@@ -3,26 +3,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=99999&color=9A9690&center=true&vCenter=true&width=500&height=30&lines=Computer+Science+%26+Engineering+%5BAIML%5D" alt="CS Engineering AIML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=99999&color=9A9690&center=true&vCenter=true&width=600&height=30&lines=Computer+Science+%26+Engineering+%5BAI+%26+ML%5D+%7C+MSRIT+Bengaluru" alt="Computer Science and Engineering (AI and ML), MSRIT Bengaluru" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vigyant-nayak-a32479302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vigyantnayak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-Computer Science Engineering student specialising in AI & Machine Learning at M.S. Ramaiah Institute of Technology, Bengaluru — with a genuine curiosity for how intelligent systems are built and where they're headed.
+## About Me
 
-I enjoy working on projects that go beyond coursework — the kind that actually ship, break, and teach you something real in the process. Over the past year I've worked on everything from fine-tuning transformer models to building full-stack AI applications, and that breadth is something I actively look for. I like understanding how all the pieces fit together, not just the individual parts.
+I am an undergraduate in Computer Science and Engineering (AI & ML) at M.S. Ramaiah Institute of Technology, Bengaluru, with a CGPA of 9.3. I build applied AI systems end to end: fine-tuning models, designing retrieval and agentic pipelines, and shipping them behind usable APIs and interfaces.
 
-Currently exploring **Generative AI**, **Agentic AI**, and **Full Stack Development** — bridging the gap between complex data models and interactive user experiences.
+My current focus is **Generative AI**, **Agentic AI** and **Retrieval-Augmented Generation**, along with the full-stack engineering that turns a model into a working product. I care about reliability as much as capability, which means structured outputs, validation and clear documentation for every system I ship.
 
-**Data Scientist Intern @ Innodatatics** — built AI-driven features for travel planning and document analysis, covering model fine-tuning, data preparation, and end-to-end inference pipelines.
+I am open to internship opportunities in AI/ML, software engineering and technical content roles.
 
-Outside the screen, I'm a sports fanatic through and through. Football match nights and Formula 1 race weekends are non-negotiable, and cricket has always had a special place. Sport teaches you more about focus, patience, and bouncing back than most things do — and I think that carries over.
+---
 
-Always open to connecting with people working on interesting problems in AI. Feel free to reach out!
+## Experience
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigyant-nayak-a32479302/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigyantnayak@gmail.com)
+**Data Scientist Intern, Innodatatics** &nbsp;|&nbsp; Aug 2025 to Nov 2025
+- Fine-tuned `facebook/detr-resnet-50` with Hugging Face Transformers for document layout detection, including COCO annotation conversion and a custom PyTorch dataset.
+- Built an AI travel-planning feature on FastAPI with Ollama-hosted LLMs, using system prompts and JSON-schema validation for consistent itinerary output.
+- Deployed inference pipelines with automated preprocessing, reducing latency by 20%.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**HALO Support**](https://github.com/Vigyant05/IT_ticket_solver) | Agentic, RAG-powered IT ticket system that classifies, prioritizes and routes helpdesk tickets and generates context-aware troubleshooting steps. | LangGraph, ChromaDB, FastAPI, Next.js, n8n |
+| [**Document Layout Detection**](https://github.com/Vigyant05/DETR_Training_Code) | Fine-tuned DETR on 8,000 training images, reaching 0.87 mAP, with structured JSON output. | PyTorch, Transformers |
+| [**Heart Health Diagnostic Tool**](https://github.com/Vigyant05/Heart-Disease-Classification) | Full-stack app predicting five heart conditions with 85 to 90% accuracy and explainable insights. | Scikit-learn, FastAPI, Next.js |
+| [**YatraAI**](https://github.com/Vigyant05/YatraAI) | AI travel planner generating personalized multi-day itineraries with live weather and location data. | Ollama, Supabase, FastAPI |
+| [**AI NPCs**](https://github.com/Vigyant05/AI_NPCs) | 2D adventure game with LLM-driven NPCs, persistent memory and dynamic world interactions. Samsung PRISM GenAI Hackathon '25 finalist. | LLMs, Python |
+| **Fantasy Team Prediction** | XGBoost model with 0.90 precision, built on scraped player, venue and match data. | XGBoost, Selenium, BeautifulSoup |
+
+---
+
+## Research
+
+- **Agentic Support System: RAG-Powered IT Ticket Triage and Automation**: co-author; paper prepared for Springer Nature journal submission.
+- **A Distributed Multi-Agent RAG System for Large Codebases**: in progress.
 
 ---
 
@@ -30,57 +56,56 @@ Always open to connecting with people working on interesting problems in AI. Fee
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql" alt="Python, C++, C, JavaScript, TypeScript, SQL" />
 
 **AI / ML**
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![sklearn](https://skillicons.dev/icons?i=sklearn)
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, Scikit-learn" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7" alt="XGBoost" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
 
 **Web & Frameworks**
 
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Vite](https://skillicons.dev/icons?i=vite)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,fastapi,tailwind" alt="React, Next.js, Express, Node.js, FastAPI, Tailwind CSS" />
 
 **Tools & Platforms**
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Figma](https://skillicons.dev/icons?i=figma)
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,gcp,supabase,mongodb" alt="Linux, Git, GitHub, Docker, Google Cloud, Supabase, MongoDB" />
+
+---
+
+## Leadership & Activities
+
+- **Samsung PRISM GenAI Hackathon '25**: Finalist.
+- **DeepStation Tech Core Member**: organising committee for the Google x DeepStation Hackathon; mentored teams through technical roadblocks.
+- **IEEE Xtreme Execom**: IEEE Bangalore Section.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vigyant05&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigyant05&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="./profile/stats.svg" alt="GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Vigyant05&theme=tokyonight&hide_border=true" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigyant05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="42%" />
+  <img src="./profile/top-langs.svg" alt="Top languages" width="42%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
+  <i>"The best way to predict the future is to invent it."</i><br/>Alan Kay
 </p>
 
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Vigyant05&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Vigyant05&icon=0&color=0" alt="Profile views" />
+</p>
